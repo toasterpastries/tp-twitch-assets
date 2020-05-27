@@ -43,7 +43,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
     and you can observe it as an example. The sticks, buttons, and directional arrows are missing
     because their appropriate elements will be incorperated when their styling is defined below.
     The entirity of the skin's visual styling is done via background images and CSS sprites. */ 
-    background: url(https://github.com/toasterpastries/tp-twitch-assets/blob/master/pinkbase.png?raw=true); 
+    background: url(https://github.com/toasterpastries/tp-twitch-assets/blob/master/pinkbase.png); 
     height: 558px;
     width: 784px;
 }
